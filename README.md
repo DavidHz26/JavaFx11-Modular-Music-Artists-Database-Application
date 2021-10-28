@@ -3,7 +3,7 @@
 - JavaFx 11
 - SQLite
 
-### VMSettings:
+### VM Settings:
 
 --module-path "[Your-Path]\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls,javafx.fxml
 
